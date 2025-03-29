@@ -14,7 +14,7 @@
 - Optimizing system performance and ensuring scalability for millions of users
 
 ## 📫 How to reach me
-- Email: [your-email@example.com](nurashanaldongarov@gmail.com)
+- Email: [nurashanaldongarov@gmail.com](nurashanaldongarov@gmail.com)
 - LinkedIn: [linkedin.com/in/nurascript](https://www.linkedin.com/in/nuraskhan)
 - GitHub: [github.com/nurascript](https://github.com/nurascript)
 
